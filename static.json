@@ -9,12 +9,12 @@
     "person": {
       "@context": "https://schema.org",
       "@type": "Person",
-      "givenName": "Jane",
-      "familyName": "Doe",
+      "givenName": "Joe",
+      "familyName": "Bottigliero",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Seattle",
-        "addressRegion": "WA",
+        "addressLocality": "Chicago",
+        "addressRegion": "IL",
         "postalCode": "98052",
         "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
       },
