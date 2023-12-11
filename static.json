@@ -1,6 +1,8 @@
 {
-  "type": "RESUME",
-  "version": "1.0.0",
+  "_static": {
+    "application": "git@github.com:from-static/static-resume.git",
+    "version": "0.1.0"
+  },
   "metadata": {
     "title": "Resume | Joe Bottigiero",
     "description": "This is an example resume generated from a static.json file."
@@ -34,6 +36,12 @@
         "company_name": "Learn by Doing, Inc.",
         "location": "Chicago, IL",
         "industry": "Education"
+      },
+      {
+        "title": "PHP Developer",
+        "company_name": "Punchkick Interactive Inc.",
+        "location": "Chicago, IL",
+        "industry": "Agency"
       }
     ]
   }
